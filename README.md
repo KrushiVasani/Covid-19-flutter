@@ -1,6 +1,6 @@
 # covid_19
 
-A new Flutter application.
+Flutter application.
 
 ## Getting Started
 
