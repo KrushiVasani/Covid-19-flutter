@@ -2,6 +2,24 @@
 
 Flutter application.
 
+#Screenshots:
+
+Light Theme:
+<div>
+<img src="images/Screenshot1.png" width="200" >
+<img src="images/Screenshot2.png" width="200" >
+<img src="images/Screenshot3.png" width="200" >
+<img src="images/Screenshot4.png" width="200" >
+</div>
+
+
+Dark Theme:
+<div>
+<img src="images/Screenshot5.png" width="200" >
+<img src="images/Screenshot6.png" width="200" >
+<img src="images/Screenshot7.png" width="200" >
+</div>
+
 ## Getting Started
 
 Link of APK : https://drive.google.com/file/d/12yCytykMEXGuzw8ZJcE8Q2OMKsE2LF4M/view?usp=drivesdk 
